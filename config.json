@@ -11,7 +11,7 @@
         "title":"",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/abr120/kathah/master/laday.json"
+          "https://raw.githubusercontent.com/abr120/khttathah/master/laday.json"
         ]
       }
     ]
@@ -30,7 +30,7 @@
         "title":"التقييم وطلب الكرتون",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/abr120/kathah/master/Settings.json"
+          "https://raw.githubusercontent.com/abr120/khttathah/master/Settings.json"
         ]
       }
     ]
